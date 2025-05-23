@@ -1,6 +1,8 @@
-streamlit
-tensorflow
-altair
+streamlit==1.35.0
+tensorflow==2.15.0
 numpy
 pandas
 Pillow
+matplotlib
+scikit-learn
+opencv-python
